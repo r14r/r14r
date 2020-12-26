@@ -1,10 +1,10 @@
-# 👋 Welcome to my ~~Homepage~~ GitHub Repo 
+# Welcome to my GitHub Repo 
 
 ## Connect Me on Social Media
 [Twitter](https://twitter.com/r14r) 
 | [LinkedIn](https://linkedin.com/in/r14r)
 
-## 🐱 Projects on GitHub
+## Projects on GitHub
 
 ## Tech Talks
 
